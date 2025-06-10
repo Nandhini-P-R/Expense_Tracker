@@ -74,7 +74,7 @@ A user-friendly **Personal Expense Tracker** application built with **Python (Tk
 
 ## ⚙️ Installation Instructions
 
-### 1. 📦 Install Dependencies
+###  📦 Install Dependencies
 Make sure Python is installed (>=3.7), then run:
 
 pip install matplotlib mysql-connector-python fpdf
