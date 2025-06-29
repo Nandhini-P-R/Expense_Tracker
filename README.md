@@ -87,9 +87,6 @@ Create a table for user data and expenses as per the structure used in the scrip
 
 Update the database credentials in the script:
 
-python
-Copy
-Edit
 mydb = mysql.connector.connect(
     host="localhost",
     user="your_username",
